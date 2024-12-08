@@ -1,5 +1,5 @@
     {
-        "name": "Land Trade Route (Food)",
+        "name": "Caravan (Food)",
         "food": 3,
         "terrainsCanBeBuiltOn": ["Land","Forest","Jungle","Marsh","Oasis"],
         "uniques": [
@@ -14,7 +14,7 @@
         ]
     },
     {
-        "name": "Land Trade Route (Production)",
+        "name": "Caravan (Production)",
         "production": 3,
         "terrainsCanBeBuiltOn": ["Land","Forest","Jungle","Marsh","Oasis"],
         "uniques": [
@@ -29,7 +29,7 @@
         ]
     },
     {
-        "name": "Land Trade Route (Gold)",
+        "name": "Caravan (Gold)",
         "terrainsCanBeBuiltOn": ["Land","Forest","Jungle","Marsh","Oasis"],
         "gold": 6,
         "uniques": [
