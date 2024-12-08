@@ -5,8 +5,8 @@
 		"movement": 3,
 		"cost": 500,
 		"requiredTech": "Currency",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"requiredResource": "Trade Caravan",
+		"promotions": ["Woodsman"],
+		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence"],
 	}
 ]
