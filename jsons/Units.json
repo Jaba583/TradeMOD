@@ -5,12 +5,12 @@
 		"movement": 3,
 		"cost": 80,
 		"requiredTech": "Trapping",
-		"requiredResource": "Trade Caravan",
+		"requiredResource": "Trader",
 		"promotions": ["Woodsman"],
-		"uniques": ["Can instantly construct a [Caravan (Food)] improvement <by consuming this unit> <when above [-1] [Trade Route]>",
-                            "Can instantly construct a [Caravan (Product)] improvement <by consuming this unit> <when above [-1] [Trade Route]>",
-                            "Can instantly construct a [Caravan (Gold)] improvement <by consuming this unit> <when above [-1] [Trade Route]>",
-                            "Consumes [1] [Trade Route]",
+		"uniques": ["Can instantly construct a [Caravan (Food)] improvement <by consuming this unit> <when above [-1] [Trader]>",
+                            "Can instantly construct a [Caravan (Product)] improvement <by consuming this unit> <when above [-1] [Trader]>",
+                            "Can instantly construct a [Caravan (Gold)] improvement <by consuming this unit> <when above [-1] [Trader]>",
+                            "Consumes [1] [Trader]",
 			    "Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence"],
 	}
 ]
