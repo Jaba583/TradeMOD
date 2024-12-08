@@ -1,1 +1,5 @@
-
+    {
+        "name": "Trade Route", 
+        "resourceType": "Strategic",
+        "uniques": ["Cannot be traded"]
+    }
