@@ -9,8 +9,7 @@
             "[+1 Food] <starting from the [Classical era]>",
             "[+2 Food] <starting from the [Industrial era]>",
             "[+3 Food] <starting from the [Modern era]>",
-            "Pillaging this improvement yields approximately [+20 Gold]",
-            "Сannot be built on adjacent tiles to a caravan"
+            "Pillaging this improvement yields approximately [+20 Gold]"
         ]
     },
     {
@@ -24,8 +23,7 @@
             "[+1 Production] <starting from the [Classical era]>",
             "[+2 Production] <starting from the [Industrial era]>",
             "[+3 Production] <starting from the [Modern era]>",
-            "Pillaging this improvement yields approximately [+20 Gold]",
-            "Сannot be built on adjacent tiles to a caravan"
+            "Pillaging this improvement yields approximately [+20 Gold]"
         ]
     },
     {
@@ -38,7 +36,6 @@
             "[+2 Gold] <starting from the [Classical era]>",
             "[+3 Gold] <starting from the [Industrial era]>",
             "[+4 Gold] <starting from the [Modern era]>",
-            "Pillaging this improvement yields approximately [+20 Gold]",
-            "Сannot be built on adjacent tiles to a caravan"
+            "Pillaging this improvement yields approximately [+20 Gold]"
         ]
     }
