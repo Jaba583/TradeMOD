@@ -4,7 +4,7 @@
 		"unitType": "Civilian",
 		"movement": 3,
 		"cost": 80,
-		"requiredTech": "Currency",
+		"requiredTech": "Trapping",
 		"requiredResource": "Trade Caravan",
 		"promotions": ["Woodsman"],
 		"uniques": ["Can instantly construct a [Caravan (Food)] improvement <by consuming this unit> <when above [-1] [Trade Route]>",
