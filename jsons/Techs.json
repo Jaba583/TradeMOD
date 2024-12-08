@@ -467,7 +467,7 @@
                 "row": 8,
                 "prerequisites": ["Steam Power","Dynamite"],
                 "quote": "'The introduction of so powerful an agent as steam to a carriage on wheels will make a great change in the situation of man.' - Thomas Jefferson",
-                "uniques": ["Provides [1] [Trade Route]"]
+                "uniques": ["Provides [1] [Trader]"]
             }
         ]
     },
