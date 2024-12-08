@@ -1,4 +1,5 @@
-    {
+[
+{
         "name": "Caravan (Food)",
         "food": 3,
         "terrainsCanBeBuiltOn": ["Land","Forest","Jungle","Marsh","Oasis"],
@@ -36,3 +37,4 @@
             "[+4 Gold] <starting from the [Modern era]>"
         ]
     }
+]
