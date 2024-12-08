@@ -9,11 +9,11 @@
             "[+1 Food] <starting from the [Classical era]>",
             "[+2 Food] <starting from the [Industrial era]>",
             "[+3 Food] <starting from the [Modern era]>",
-            "Pillaging this improvement yields approximately [+20] [Gold]"
+            "Pillaging this improvement yields approximately [+25][Gold]"
         ]
     },
     {
-        "name": "Caravan (Product)",
+        "name": "Caravan (Production)",
         "production": 3,
         "terrainsCanBeBuiltOn": ["Land","Forest","Jungle","Marsh","Oasis"],
         "uniques": [
@@ -23,7 +23,7 @@
             "[+1 Production] <starting from the [Classical era]>",
             "[+2 Production] <starting from the [Industrial era]>",
             "[+3 Production] <starting from the [Modern era]>",
-            "Pillaging this improvement yields approximately [+20] [Gold]"
+            "Pillaging this improvement yields approximately [+25][Gold]"
         ]
     },
     {
@@ -36,6 +36,6 @@
             "[+2 Gold] <starting from the [Classical era]>",
             "[+3 Gold] <starting from the [Industrial era]>",
             "[+4 Gold] <starting from the [Modern era]>",
-            "Pillaging this improvement yields approximately [+20] [Gold]"
+            "Pillaging this improvement yields approximately [+25][Gold]"
         ]
     }
