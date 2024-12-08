@@ -7,8 +7,8 @@
             "Provides [-1] [Trade Caravan]",
             "[-3 Food] <in cities without a [Granary]>",
             "[+1 Food] <starting from the [Classical era]>",
-            "[+1 Food] <starting from the [Industrial era]>",
-            "[+1 Food] <starting from the [Modern era]>",
+            "[+2 Food] <starting from the [Industrial era]>",
+            "[+3 Food] <starting from the [Modern era]>",
             "Pillaging this improvement yields approximately [+20 Gold]",
             "Excluded from map editor"
         ]
@@ -22,8 +22,8 @@
             "Provides [-1] [Trade Caravan]",
             "[-3 Production] <in cities without a [Workshop]>",
             "[+1 Production] <starting from the [Classical era]>",
-            "[+1 Production] <starting from the [Industrial era]>",
-            "[+1 Production] <starting from the [Modern era]>",
+            "[+2 Production] <starting from the [Industrial era]>",
+            "[+3 Production] <starting from the [Modern era]>",
             "Pillaging this improvement yields approximately [+20 Gold]",
             "Excluded from map editor"
         ]
@@ -36,8 +36,8 @@
             "All Trade Route",
             "Provides [-1] [Trade Caravan]",
             "[+2 Gold] <starting from the [Classical era]>",
-            "[+2 Gold] <starting from the [Industrial era]>",
-            "[+2 Gold] <starting from the [Modern era]>",
+            "[+3 Gold] <starting from the [Industrial era]>",
+            "[+4 Gold] <starting from the [Modern era]>",
             "Pillaging this improvement yields approximately [+20 Gold]",
             "Excluded from map editor"
         ]
