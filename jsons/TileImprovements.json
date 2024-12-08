@@ -13,7 +13,7 @@
         ]
     },
     {
-        "name": "Caravan (Production)",
+        "name": "Caravan (Product)",
         "production": 3,
         "terrainsCanBeBuiltOn": ["Land","Forest","Jungle","Marsh","Oasis"],
         "uniques": [
