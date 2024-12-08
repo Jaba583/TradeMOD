@@ -1,7 +1,7 @@
 [
    // Ingame Mechanics
     {
-        "name": "Trade Caravan", 
+        "name": "Trader", 
         "resourceType": "Strategic",
         "uniques": ["Cannot be traded"]
     }
