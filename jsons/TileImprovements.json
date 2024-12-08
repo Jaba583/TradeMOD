@@ -10,6 +10,8 @@
             "[+2 Food] <starting from the [Industrial era]>",
             "[+3 Food] <starting from the [Modern era]>",
             "Pillaging this improvement yields approximately [+20 Gold]",
+            "Cant be built on tiles adjacent",
+            "Can only be built on the road.",
             "Excluded from map editor"
         ]
     },
@@ -25,6 +27,8 @@
             "[+2 Production] <starting from the [Industrial era]>",
             "[+3 Production] <starting from the [Modern era]>",
             "Pillaging this improvement yields approximately [+20 Gold]",
+            "Cant be built on tiles adjacent",
+            "Can only be built on the road.",
             "Excluded from map editor"
         ]
     },
@@ -39,6 +43,8 @@
             "[+3 Gold] <starting from the [Industrial era]>",
             "[+4 Gold] <starting from the [Modern era]>",
             "Pillaging this improvement yields approximately [+20 Gold]",
+            "Cant be built on tiles adjacent",
+            "Can only be built on the road.",
             "Excluded from map editor"
         ]
     }
