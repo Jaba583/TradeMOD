@@ -172,7 +172,7 @@
                 "prerequisites": ["Mathematics","Construction"],
                 "quote": "'Instrumental or mechanical science is the noblest and, above all others, the most useful.' - Leonardo da Vinci",
                 "uniques": [
-                    "Provides [1] [Trade Route]",
+                    "Provides [1] [Trader]",
                     "Roads connect tiles across rivers"
                 ]
             },
