@@ -4,8 +4,7 @@
         "food": 3,
         "terrainsCanBeBuiltOn": ["Land","Forest","Jungle","Marsh","Oasis"],
         "uniques": [
-            "All Trade Route",
-            "Provides [-1] [Trade Route]",
+            "Provides [-1] [Trader]",
             "[-3 Food] <in cities without a [Granary]>",
             "[+1 Food] <starting from the [Classical era]>",
             "[+2 Food] <starting from the [Industrial era]>",
@@ -17,8 +16,7 @@
         "production": 3,
         "terrainsCanBeBuiltOn": ["Land","Forest","Jungle","Marsh","Oasis"],
         "uniques": [
-            "All Trade Route",
-            "Provides [-1] [Trade Route]",
+            "Provides [-1] [Trader]",
             "[-3 Production] <in cities without a [Workshop]>",
             "[+1 Production] <starting from the [Classical era]>",
             "[+2 Production] <starting from the [Industrial era]>",
@@ -30,8 +28,7 @@
         "terrainsCanBeBuiltOn": ["Land","Forest","Jungle","Marsh","Oasis"],
         "gold": 6,
         "uniques": [
-            "All Trade Route",
-            "Provides [-1] [Trade Route]",
+            "Provides [-1] [Trader]",
             "[+2 Gold] <starting from the [Classical era]>",
             "[+3 Gold] <starting from the [Industrial era]>",
             "[+4 Gold] <starting from the [Modern era]>"
