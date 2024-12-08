@@ -1,1 +1,44 @@
-
+    {
+        "name": "Land Trade Route (Food)",
+        "food": 3,
+        "terrainsCanBeBuiltOn": ["Land","Forest","Jungle","Marsh","Oasis"],
+        "uniques": [
+            "All Trade Route",
+            "Provides [-1] [Trade Caravan]",
+            "[-3 Food] <in cities without a [Granary]>",
+            "[+1 Food] <starting from the [Classical era]>",
+            "[+1 Food] <starting from the [Industrial era]>",
+            "[+1 Food] <starting from the [Modern era]>",
+            "Pillaging this improvement yields approximately [+20 Gold]",
+            "Excluded from map editor"
+        ]
+    },
+    {
+        "name": "Land Trade Route (Production)",
+        "production": 3,
+        "terrainsCanBeBuiltOn": ["Land","Forest","Jungle","Marsh","Oasis"],
+        "uniques": [
+            "All Trade Route",
+            "Provides [-1] [Trade Caravan]",
+            "[-3 Production] <in cities without a [Workshop]>",
+            "[+1 Production] <starting from the [Classical era]>",
+            "[+1 Production] <starting from the [Industrial era]>",
+            "[+1 Production] <starting from the [Modern era]>",
+            "Pillaging this improvement yields approximately [+20 Gold]",
+            "Excluded from map editor"
+        ]
+    },
+    {
+        "name": "Land Trade Route (Gold)",
+        "terrainsCanBeBuiltOn": ["Land","Forest","Jungle","Marsh","Oasis"],
+        "gold": 6,
+        "uniques": [
+            "All Trade Route",
+            "Provides [-1] [Trade Caravan]",
+            "[+2 Gold] <starting from the [Classical era]>",
+            "[+2 Gold] <starting from the [Industrial era]>",
+            "[+2 Gold] <starting from the [Modern era]>",
+            "Pillaging this improvement yields approximately [+20 Gold]",
+            "Excluded from map editor"
+        ]
+    }
